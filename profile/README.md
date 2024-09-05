@@ -24,6 +24,8 @@ plenoptic is a python library for model-based synthesis of perceptual stimuli, i
 
 📚 Many of the repositories in this organization contain materials from workshops we have run, which you may find useful to look through. You may also want to check out [the presentations](https://plenoptic-org.github.io/plenoptic_presentations/) we've given about the package.
 
+🙏 If you use plenoptic in a published academic article or presentation, please cite us! View [our citation guide](https://plenoptic.readthedocs.io/en/latest/citation.html) for more details.
+
 ## Credits
 
 The package was intially developed by members of the [Lab for Computational Vision](https://www.cns.nyu.edu/~lcv/) at New York University and is now maintained by [Billy Broderick](https://wfbroderick.com/).
